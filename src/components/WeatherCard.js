@@ -50,7 +50,7 @@ const WeatherCard = ({ data, loading }) => {
   const date = new Date();
 
   return (
-    <div className="w-full max-w-[450px] bg-black/20 min-h-[584px] text-white backdrop-blur-[32px] py-12 px-6 rounded-[20px]">
+    <div className="w-full max-w-[450px] bg-black/20 text-white backdrop-blur-[32px] py-12 px-6 rounded-[20px]">
       {loading ? (
         <div className="w-full h-full flex justify-center items-center">
           <ImSpinner8 className="text-white text-5xl animate-spin" />

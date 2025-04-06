@@ -4,9 +4,9 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  body {
-    @apply font-primary;
-    font-family: "Jost", serif;
+  @layer base {
+    body {
+      @apply font-primary;
+      font-family: "Jost", serif;
+    }
   }
-}
