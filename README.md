@@ -1,6 +1,6 @@
 # Weather App
 
-[Weather App](https://weather-app-rahmans-projects.vercel.app/) provides users with up-to-date weather information for any location. With a clean and intuitive interface, users can easily check current weather conditions.
+[Weather App] provides users with up-to-date weather information for any location. With a clean and intuitive interface, users can easily check current weather conditions.
 
 Features
 
